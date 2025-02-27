@@ -2497,12 +2497,10 @@ public class IteratorPatternExample {
 - **Structural Patterns** build flexible class/object structures.
 - **Behavioral Patterns** manage communication between objects.
 
+---
 
-# CHALLENGES
+# Design Patterns Coding Challenges Part 1
 
-### Challenge Part 1
-
-# Challenging Coding Exercises: Design Patterns in Java
 
 Here’s a collection of challenging coding exercises to practice Design Patterns in Java, categorized into Creational, Structural, and Behavioral patterns. Each challenge is designed to be practical, real-world-oriented, and progressively challenging.
 
@@ -2655,9 +2653,8 @@ Happy coding! 🚀
 ---
 
 
-### Challenge Part 2 
+# Design Patterns Coding Challenges Part 2 
 
-# Design Patterns Coding Challenges in Java
 
 ## **1️⃣ Creational Patterns**
 
